@@ -145,7 +145,6 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Tech Pluto - http://www.techpluto.com/submit-a-startup/
 * The Changelog - https://github.com/thechangelog/ping
 * The iPhone Mom - https://www.theiphonemom.com/
-* Top Alternatives - https://topalternatives.com/
 * Vator - http://www.vator.tv/
 * VB Profiles - http://vbprofiles.com/
 * Venture Beat - http://venturebeat.com/news-tips/
